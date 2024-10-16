@@ -1,0 +1,272 @@
+./dataset/karate/network.dat dropout: 0.2 num_trials: 20 num_node_features: 64 learning_rate: 0.01
+Running trial 1...
+Added edge between 17 and 21, distance: 0.00015901029109954834, weight: 0.9997162222862244
+Added edge between 11 and 17, distance: 0.00015914440155029297, weight: 0.9993224740028381
+Added edge between 11 and 21, distance: 0.00015914440155029297, weight: 0.9995744228363037
+Added edge between 7 and 17, distance: 0.0005548670887947083, weight: 0.9982028007507324
+Added edge between 7 and 21, distance: 0.0005548670887947083, weight: 0.9981836676597595
+Added edge between 14 and 15, distance: 0.0040573179721832275, weight: 0.8794527053833008
+Added edge between 14 and 18, distance: 0.0040573179721832275, weight: 0.9922618865966797
+Added edge between 14 and 20, distance: 0.0040573179721832275, weight: 0.9323412775993347
+Added edge between 14 and 22, distance: 0.0040573179721832275, weight: 0.9507333636283875
+Added edge between 15 and 18, distance: 0.0040573179721832275, weight: 0.9303525686264038
+Running trial 2...
+Added edge between 11 and 17, distance: 0.00010785460472106934, weight: 0.995114803314209
+Added edge between 11 and 21, distance: 0.00010785460472106934, weight: 0.9909436106681824
+Added edge between 17 and 21, distance: 0.00010785460472106934, weight: 0.9983162879943848
+Added edge between 7 and 17, distance: 0.0005217790603637695, weight: 0.9989307522773743
+Added edge between 7 and 21, distance: 0.0005217790603637695, weight: 0.9969362616539001
+Added edge between 0 and 9, distance: 0.0, weight: 0.8596200942993164
+Added edge between 0 and 14, distance: 0.0, weight: 0.8596200942993164
+Added edge between 0 and 15, distance: 0.0, weight: 0.8596200942993164
+Added edge between 0 and 16, distance: 0.0, weight: 0.8596200942993164
+Added edge between 0 and 18, distance: 0.0, weight: 0.8596200942993164
+Running trial 3...
+Added edge between 11 and 17, distance: 0.0004356205463409424, weight: 0.995993971824646
+Added edge between 11 and 21, distance: 0.0004356205463409424, weight: 0.9983323812484741
+Added edge between 17 and 21, distance: 0.00043563544750213623, weight: 0.9987919330596924
+Added edge between 7 and 17, distance: 0.0016950145363807678, weight: 0.9990607500076294
+Added edge between 7 and 21, distance: 0.0016950145363807678, weight: 0.9982562065124512
+Added edge between 14 and 15, distance: 0.00017213821411132812, weight: 1.0000001192092896
+Added edge between 14 and 18, distance: 0.00017213821411132812, weight: 1.0000001192092896
+Added edge between 14 and 20, distance: 0.00017213821411132812, weight: 1.0000001192092896
+Added edge between 14 and 22, distance: 0.00017213821411132812, weight: 1.0000001192092896
+Added edge between 15 and 18, distance: 0.00017213821411132812, weight: 1.0000001192092896
+Running trial 4...
+Added edge between 10 and 11, distance: 0.0013294816017150879, weight: 0.9979737997055054
+Added edge between 6 and 10, distance: 0.0017664730548858643, weight: 0.999737560749054
+Added edge between 14 and 15, distance: 0.00189991295337677, weight: 0.9991428256034851
+Added edge between 14 and 18, distance: 0.00189991295337677, weight: 0.9961705803871155
+Added edge between 14 and 20, distance: 0.00189991295337677, weight: 0.9994664788246155
+Added edge between 9 and 28, distance: 0.030642618735631306, weight: 0.9855276942253113
+Added edge between 25 and 27, distance: 0.0340551088253657, weight: 0.9777370691299438
+Added edge between 9 and 27, distance: 0.03578884154558182, weight: 0.9472047090530396
+Added edge between 26 and 27, distance: 0.03579067438840866, weight: 0.9806389808654785
+Added edge between 25 and 26, distance: 0.035882403453191124, weight: 0.9944437742233276
+Running trial 5...
+Added edge between 11 and 17, distance: 0.00019440054893493652, weight: 0.9971423745155334
+Added edge between 11 and 21, distance: 0.00019440054893493652, weight: 0.9976312518119812
+Added edge between 17 and 21, distance: 0.00019446015357971191, weight: 0.9996872544288635
+Added edge between 14 and 15, distance: 0.0007949769496917725, weight: 0.9991377592086792
+Added edge between 14 and 18, distance: 0.0007949769496917725, weight: 0.9929524064064026
+Added edge between 14 and 15, distance: 0.007846027612686157, weight: 0.9766115546226501
+Added edge between 14 and 18, distance: 0.007846027612686157, weight: 0.9989698529243469
+Added edge between 14 and 20, distance: 0.007846027612686157, weight: 0.9747102856636047
+Added edge between 14 and 22, distance: 0.007846027612686157, weight: 0.9774965047836304
+Added edge between 15 and 18, distance: 0.007846027612686157, weight: 0.9675261974334717
+Running trial 6...
+Added edge between 17 and 21, distance: 0.00034376978874206543, weight: 0.9984302520751953
+Added edge between 11 and 17, distance: 0.0003437995910644531, weight: 0.9936062097549438
+Added edge between 11 and 21, distance: 0.0003437995910644531, weight: 0.9940647482872009
+Added edge between 7 and 17, distance: 0.0010468140244483948, weight: 0.9989606738090515
+Added edge between 7 and 21, distance: 0.0010468140244483948, weight: 0.9981167316436768
+Added edge between 9 and 26, distance: 0.034971803426742554, weight: 0.9560266137123108
+Added edge between 14 and 15, distance: 0.036535605788230896, weight: 0.9073463678359985
+Added edge between 14 and 18, distance: 0.036535605788230896, weight: 0.973294734954834
+Added edge between 14 and 20, distance: 0.036535605788230896, weight: 0.9806807041168213
+Added edge between 14 and 22, distance: 0.036535605788230896, weight: 0.8859342932701111
+Running trial 7...
+Added edge between 11 and 17, distance: 0.0005376338958740234, weight: 0.9984097480773926
+Added edge between 11 and 21, distance: 0.0005376338958740234, weight: 0.9986488223075867
+Added edge between 17 and 21, distance: 0.000537678599357605, weight: 0.9985958337783813
+Added edge between 10 and 11, distance: 0.0007674694061279297, weight: 0.9976994395256042
+Added edge between 14 and 15, distance: 0.0010776519775390625, weight: 0.9974417686462402
+Added edge between 14 and 15, distance: 0.0026272982358932495, weight: 0.9337891936302185
+Added edge between 14 and 18, distance: 0.0026272982358932495, weight: 0.9776135683059692
+Added edge between 14 and 20, distance: 0.0026272982358932495, weight: 0.966407835483551
+Added edge between 14 and 22, distance: 0.0026272982358932495, weight: 0.9984180331230164
+Added edge between 15 and 18, distance: 0.0026272982358932495, weight: 0.9881735444068909
+Running trial 8...
+Added edge between 17 and 21, distance: 0.00040915608406066895, weight: 0.9992571473121643
+Added edge between 11 and 17, distance: 0.00040921568870544434, weight: 0.9974746704101562
+Added edge between 11 and 21, distance: 0.00040921568870544434, weight: 0.9971034526824951
+Added edge between 14 and 15, distance: 0.0016038715839385986, weight: 0.9992570281028748
+Added edge between 14 and 18, distance: 0.0016038715839385986, weight: 0.9985653162002563
+Added edge between 14 and 15, distance: 5.0634145736694336e-05, weight: 0.9989584684371948
+Added edge between 14 and 18, distance: 5.0634145736694336e-05, weight: 0.9995589256286621
+Added edge between 14 and 20, distance: 5.0634145736694336e-05, weight: 0.9992675185203552
+Added edge between 14 and 22, distance: 5.0634145736694336e-05, weight: 0.998622715473175
+Added edge between 15 and 18, distance: 5.0634145736694336e-05, weight: 0.9998728036880493
+Running trial 9...
+Added edge between 17 and 21, distance: 0.0005537569522857666, weight: 0.9980682134628296
+Added edge between 11 and 17, distance: 0.0005537867546081543, weight: 0.9973098635673523
+Added edge between 11 and 21, distance: 0.0005537867546081543, weight: 0.9988293051719666
+Added edge between 10 and 11, distance: 0.0005955100059509277, weight: 0.9970412254333496
+Added edge between 4 and 16, distance: 0.0006257593631744385, weight: 0.9871978759765625
+Added edge between 14 and 15, distance: 0.05423501133918762, weight: 0.8457162380218506
+Added edge between 14 and 18, distance: 0.05423501133918762, weight: 0.9438614845275879
+Added edge between 14 and 20, distance: 0.05423501133918762, weight: 0.9799813628196716
+Added edge between 14 and 22, distance: 0.05423501133918762, weight: 0.8673660755157471
+Added edge between 15 and 18, distance: 0.05423501133918762, weight: 0.8445862531661987
+Running trial 10...
+Added edge between 11 and 17, distance: 0.0003571808338165283, weight: 0.9958304166793823
+Added edge between 11 and 21, distance: 0.0003571808338165283, weight: 0.9959194660186768
+Added edge between 17 and 21, distance: 0.0003572702407836914, weight: 0.9992188215255737
+Added edge between 7 and 17, distance: 0.001639530062675476, weight: 0.9952596426010132
+Added edge between 7 and 21, distance: 0.001639530062675476, weight: 0.9953891634941101
+Added edge between 0 and 26, distance: 1.1920928955078125e-07, weight: 0.8596248030662537
+Added edge between 9 and 26, distance: 1.1920928955078125e-07, weight: 0.9999998211860657
+Added edge between 14 and 26, distance: 1.1920928955078125e-07, weight: 0.9999998211860657
+Added edge between 15 and 26, distance: 1.1920928955078125e-07, weight: 0.9999998211860657
+Added edge between 16 and 26, distance: 1.1920928955078125e-07, weight: 0.9999998211860657
+Running trial 11...
+Added edge between 17 and 21, distance: 0.0010355859994888306, weight: 0.9995899796485901
+Added edge between 11 and 17, distance: 0.0010356009006500244, weight: 0.9989638328552246
+Added edge between 11 and 21, distance: 0.0010356009006500244, weight: 0.9977760314941406
+Added edge between 7 and 17, distance: 0.001653231680393219, weight: 0.9988935589790344
+Added edge between 7 and 21, distance: 0.001653231680393219, weight: 0.9997864961624146
+Added edge between 14 and 26, distance: 0.015364781022071838, weight: 0.9469101428985596
+Added edge between 15 and 26, distance: 0.015364781022071838, weight: 0.9862464666366577
+Added edge between 18 and 26, distance: 0.015364781022071838, weight: 0.9469101428985596
+Added edge between 20 and 26, distance: 0.015364781022071838, weight: 0.9769666194915771
+Added edge between 22 and 26, distance: 0.015364781022071838, weight: 0.9992449879646301
+Running trial 12...
+Added edge between 14 and 15, distance: 0.0008124411106109619, weight: 0.9990162253379822
+Added edge between 14 and 18, distance: 0.0008124411106109619, weight: 0.9993880987167358
+Added edge between 14 and 20, distance: 0.0008124411106109619, weight: 0.9991697669029236
+Added edge between 14 and 22, distance: 0.0008124411106109619, weight: 0.9971727132797241
+Added edge between 15 and 18, distance: 0.0008124411106109619, weight: 0.9991620182991028
+Added edge between 24 and 33, distance: -9.817235610064338e-08, weight: 0.9999998211860657
+Added edge between 0 and 24, distance: -8.568167686462402e-08, weight: 0.859660267829895
+Added edge between 24 and 30, distance: -7.450580596923828e-08, weight: 0.9999999403953552
+Added edge between 24 and 32, distance: -7.450580596923828e-08, weight: 0.9999999403953552
+Added edge between 0 and 33, distance: -6.595955175511978e-08, weight: 0.859660267829895
+Running trial 13...
+Added edge between 10 and 11, distance: 0.0002473791440327962, weight: 0.9979382157325745
+Added edge between 10 and 12, distance: 0.0015883843104044597, weight: 0.9994789361953735
+Added edge between 11 and 12, distance: 0.001741260290145874, weight: 0.9980522394180298
+Added edge between 7 and 12, distance: 0.0021920055150985718, weight: 0.9970995187759399
+Added edge between 6 and 10, distance: 0.0023315797249476113, weight: 0.9983276128768921
+Added edge between 0 and 9, distance: 1.7881393432617188e-07, weight: 0.8596566915512085
+Added edge between 0 and 14, distance: 1.7881393432617188e-07, weight: 0.8596566915512085
+Added edge between 0 and 15, distance: 1.7881393432617188e-07, weight: 0.8596566915512085
+Added edge between 0 and 16, distance: 1.7881393432617188e-07, weight: 0.8596566915512085
+Added edge between 0 and 18, distance: 1.7881393432617188e-07, weight: 0.8596566915512085
+Running trial 14...
+Added edge between 10 and 11, distance: 0.001234571139017741, weight: 0.9956462383270264
+Added edge between 14 and 15, distance: 0.0013406574726104736, weight: 0.9984687566757202
+Added edge between 14 and 18, distance: 0.0013406574726104736, weight: 0.9981074333190918
+Added edge between 14 and 20, distance: 0.0013406574726104736, weight: 0.9991939663887024
+Added edge between 14 and 22, distance: 0.0013406574726104736, weight: 0.9987303614616394
+Added edge between 14 and 15, distance: 0.000696331262588501, weight: 0.9420955181121826
+Added edge between 14 and 18, distance: 0.000696331262588501, weight: 0.9969468712806702
+Added edge between 14 and 20, distance: 0.000696331262588501, weight: 0.9849275946617126
+Added edge between 14 and 22, distance: 0.000696331262588501, weight: 0.9913219213485718
+Added edge between 15 and 18, distance: 0.000696331262588501, weight: 0.9654014110565186
+Running trial 15...
+Added edge between 4 and 16, distance: 0.0009935299555460613, weight: 0.9960196614265442
+Added edge between 10 and 11, distance: 0.0011258323987325032, weight: 0.9984921813011169
+Added edge between 4 and 11, distance: 0.0012749234835306804, weight: 0.9973493218421936
+Added edge between 4 and 5, distance: 0.0012784600257873535, weight: 0.9952739477157593
+Added edge between 6 and 11, distance: 0.0016957223415374756, weight: 0.9992725253105164
+Added edge between 14 and 15, distance: 0.04735308885574341, weight: 0.9614133834838867
+Added edge between 14 and 18, distance: 0.04735308885574341, weight: 0.9434962272644043
+Added edge between 14 and 20, distance: 0.04735308885574341, weight: 0.9278295636177063
+Added edge between 14 and 22, distance: 0.04735308885574341, weight: 0.878434419631958
+Added edge between 15 and 18, distance: 0.04735308885574341, weight: 0.9487888216972351
+Running trial 16...
+Added edge between 10 and 16, distance: 0.0003196895122528076, weight: 0.9954257607460022
+Added edge between 4 and 16, distance: 0.00032326579093933105, weight: 0.9950046539306641
+Added edge between 10 and 11, distance: 0.00044588247934977215, weight: 0.9967451095581055
+Added edge between 11 and 17, distance: 0.0006324946880340576, weight: 0.9997157454490662
+Added edge between 11 and 21, distance: 0.0006324946880340576, weight: 0.9996777176856995
+Added edge between 14 and 15, distance: 0.004492625594139099, weight: 0.9497439861297607
+Added edge between 14 and 18, distance: 0.004492625594139099, weight: 0.9941487312316895
+Added edge between 14 and 20, distance: 0.004492625594139099, weight: 0.9864209890365601
+Added edge between 14 and 22, distance: 0.004492625594139099, weight: 0.9985104203224182
+Added edge between 15 and 18, distance: 0.004492625594139099, weight: 0.9672377109527588
+Running trial 17...
+Added edge between 11 and 17, distance: 0.0007731020450592041, weight: 0.9986661076545715
+Added edge between 11 and 21, distance: 0.0007731020450592041, weight: 0.9993981719017029
+Added edge between 17 and 21, distance: 0.0007731020450592041, weight: 0.9994630813598633
+Added edge between 7 and 17, distance: 0.0008624792098999023, weight: 0.9993113279342651
+Added edge between 7 and 21, distance: 0.0008624792098999023, weight: 0.9988865256309509
+Added edge between 14 and 15, distance: 0.0017810165882110596, weight: 0.9654364585876465
+Added edge between 14 and 18, distance: 0.0017810165882110596, weight: 0.9998493790626526
+Added edge between 14 and 20, distance: 0.0017810165882110596, weight: 0.990537166595459
+Added edge between 14 and 22, distance: 0.0017810165882110596, weight: 0.978742241859436
+Added edge between 15 and 18, distance: 0.0017810165882110596, weight: 0.9635652303695679
+Running trial 18...
+Added edge between 11 and 17, distance: 0.0002149343490600586, weight: 0.9992499947547913
+Added edge between 11 and 21, distance: 0.0002149343490600586, weight: 0.9996878504753113
+Added edge between 17 and 21, distance: 0.00021499395370483398, weight: 0.999457597732544
+Added edge between 12 and 17, distance: 0.0004904568195343018, weight: 0.9991947412490845
+Added edge between 12 and 21, distance: 0.0004904568195343018, weight: 0.9985901117324829
+Added edge between 14 and 26, distance: 0.03801952302455902, weight: 0.9598434567451477
+Added edge between 15 and 26, distance: 0.03801952302455902, weight: 0.9508048295974731
+Added edge between 18 and 26, distance: 0.03801952302455902, weight: 0.9466740489006042
+Added edge between 20 and 26, distance: 0.03801952302455902, weight: 0.9512363076210022
+Added edge between 22 and 26, distance: 0.03801952302455902, weight: 0.9990119934082031
+Running trial 19...
+Added edge between 17 and 21, distance: 9.284913539886475e-05, weight: 0.9989820718765259
+Added edge between 11 and 17, distance: 9.289383888244629e-05, weight: 0.997664213180542
+Added edge between 11 and 21, distance: 9.289383888244629e-05, weight: 0.9991735219955444
+Added edge between 7 and 11, distance: 0.0005566179752349854, weight: 0.9969960451126099
+Added edge between 7 and 17, distance: 0.0005889460444450378, weight: 0.9998553395271301
+Added edge between 14 and 15, distance: 0.007805749773979187, weight: 0.9897053837776184
+Added edge between 14 and 18, distance: 0.007805749773979187, weight: 0.9999702572822571
+Added edge between 14 and 20, distance: 0.007805749773979187, weight: 0.9995202422142029
+Added edge between 14 and 22, distance: 0.007805749773979187, weight: 0.9987854361534119
+Added edge between 15 and 18, distance: 0.007805749773979187, weight: 0.988804042339325
+Running trial 20...
+Added edge between 17 and 21, distance: 0.0013981908559799194, weight: 0.9988246560096741
+Added edge between 11 and 17, distance: 0.0013982057571411133, weight: 0.9943423271179199
+Added edge between 11 and 21, distance: 0.0013982057571411133, weight: 0.9962169528007507
+Added edge between 10 and 11, distance: 0.002529700597127279, weight: 0.9899290204048157
+Added edge between 4 and 16, distance: 0.002560436725616455, weight: 0.9964631199836731
+Added edge between 9 and 14, distance: 4.470348358154297e-08, weight: 0.9999998211860657
+Added edge between 9 and 15, distance: 4.470348358154297e-08, weight: 0.9999998211860657
+Added edge between 9 and 18, distance: 4.470348358154297e-08, weight: 0.9999998211860657
+Added edge between 9 and 20, distance: 4.470348358154297e-08, weight: 0.9999998211860657
+Added edge between 9 and 22, distance: 4.470348358154297e-08, weight: 0.9999998211860657
+
+Results for each trial:
+ Trial  Louvain_Modularity  GCN_Louvain_Modularity  Transformer_Louvain_Modularity  GCN_Louvain_Rewire_Modularity  Transformer_Louvain_Rewire_Modularity  Louvain_NMI  GCN_Louvain_NMI  Transformer_Louvain_NMI  GCN_Louvain_Rewire_NMI  Transformer_Louvain_Rewire_NMI  Louvain_ARI  GCN_Louvain_ARI  Transformer_Louvain_ARI  GCN_Louvain_Rewire_ARI  Transformer_Louvain_Rewire_ARI  Louvain_F-Score  GCN_Louvain_F-Score  Transformer_Louvain_F-Score  GCN_Louvain_Rewire_F-Score  Transformer_Louvain_Rewire_F-Score  Louvain_Num_Communities  GCN_Louvain_Num_Communities  Transformer_Louvain_Num_Communities  GCN_Louvain_Rewire_Num_Communities  Transformer_Louvain_Rewire_Num_Communities
+     1            0.415598                0.397436                        0.415598                       0.418803                               0.418803     0.602145         0.601733                 0.602145                0.586635                        0.586635     0.513124         0.483276                 0.513124                0.461907                        0.461907         0.328725             0.303292                     0.328725                    0.308703                            0.308703                        4                            4                                    4                                   4                                           4
+     2            0.418803                0.418803                        0.419790                       0.415105                               0.415598     0.586635         0.586635                 0.687263                0.707135                        0.602145     0.461907         0.461907                 0.541357                0.599757                        0.513124         0.308703             0.308703                     0.319048                    0.337798                            0.328725                        4                            4                                    4                                   4                                           4
+     3            0.419790                0.415598                        0.415598                       0.415598                               0.418803     0.687263         0.602145                 0.602145                0.602145                        0.586635     0.541357         0.513124                 0.513124                0.513124                        0.461907         0.319048             0.328725                     0.328725                    0.328725                            0.308703                        4                            4                                    4                                   4                                           4
+     4            0.419790                0.395217                        0.415598                       0.410503                               0.391437     0.687263         0.581858                 0.602145                0.680818                        0.681572     0.541357         0.439698                 0.513124                0.523070                        0.523070         0.319048             0.362732                     0.328725                    0.336364                            0.308703                        4                            4                                    4                                   4                                           4
+     5            0.419790                0.419790                        0.415598                       0.419790                               0.415598     0.687263         0.687263                 0.602145                0.687263                        0.602145     0.541357         0.541357                 0.513124                0.541357                        0.513124         0.319048             0.319048                     0.328725                    0.319048                            0.328725                        4                            4                                    4                                   4                                           4
+     6            0.419790                0.418803                        0.419790                       0.385026                               0.419790     0.687263         0.586635                 0.687263                0.583074                        0.687263     0.541357         0.461907                 0.541357                0.439589                        0.541357         0.319048             0.308703                     0.319048                    0.349655                            0.319048                        4                            4                                    4                                   4                                           4
+     7            0.415598                0.415598                        0.418803                       0.398093                               0.419790     0.602145         0.602145                 0.586635                0.592773                        0.687263     0.513124         0.513124                 0.461907                0.461387                        0.541357         0.328725             0.328725                     0.308703                    0.320090                            0.319048                        4                            4                                    4                                   4                                           4
+     8            0.415598                0.418803                        0.418803                       0.419790                               0.419790     0.602145         0.586635                 0.586635                0.687263                        0.687263     0.513124         0.461907                 0.461907                0.541357                        0.541357         0.328725             0.308703                     0.308703                    0.319048                            0.319048                        4                            4                                    4                                   4                                           4
+     9            0.418803                0.415598                        0.415598                       0.398176                               0.419790     0.586635         0.602145                 0.602145                0.592773                        0.687263     0.461907         0.513124                 0.513124                0.461387                        0.541357         0.308703             0.328725                     0.328725                    0.320090                            0.319048                        4                            4                                    4                                   4                                           4
+    10            0.415598                0.419790                        0.397847                       0.418803                               0.394724     0.602145         0.687263                 0.586662                0.586635                        0.675872     0.513124         0.541357                 0.446820                0.461907                        0.508427         0.328725             0.319048                     0.335489                    0.308703                            0.366667                        4                            4                                    4                                   4                                           4
+    11            0.418803                0.415105                        0.419790                       0.418803                               0.419790     0.586635         0.707135                 0.687263                0.586635                        0.687263     0.461907         0.599757                 0.541357                0.461907                        0.541357         0.308703             0.337798                     0.319048                    0.308703                            0.319048                        4                            4                                    4                                   4                                           4
+    12            0.419790                0.415105                        0.419790                       0.419790                               0.399080     0.687263         0.707135                 0.687263                0.687263                        0.825518     0.541357         0.599757                 0.541357                0.541357                        0.802746         0.319048             0.337798                     0.319048                    0.319048                            0.492063                        4                            4                                    4                                   4                                           3
+    13            0.418803                0.415105                        0.419790                       0.419790                               0.415598     0.586635         0.707135                 0.687263                0.687263                        0.602145     0.461907         0.599757                 0.541357                0.541357                        0.513124         0.308703             0.337798                     0.319048                    0.319048                            0.328725                        4                            4                                    4                                   4                                           4
+    14            0.418803                0.415598                        0.418803                       0.397436                               0.415105     0.586635         0.602145                 0.586635                0.601733                        0.707135     0.461907         0.513124                 0.461907                0.483276                        0.599757         0.308703             0.328725                     0.308703                    0.303292                            0.337798                        4                            4                                    4                                   4                                           4
+    15            0.415105                0.418803                        0.419790                       0.392916                               0.418803     0.707135         0.586635                 0.687263                0.693730                        0.586635     0.599757         0.461907                 0.541357                0.687621                        0.461907         0.337798             0.308703                     0.319048                    0.505628                            0.308703                        4                            4                                    4                                   3                                           4
+    16            0.418803                0.415598                        0.397436                       0.418803                               0.419790     0.586635         0.602145                 0.601733                0.586635                        0.687263     0.461907         0.513124                 0.483276                0.461907                        0.541357         0.308703             0.328725                     0.303292                    0.308703                            0.319048                        4                            4                                    4                                   4                                           4
+    17            0.419790                0.418803                        0.415105                       0.415105                               0.419790     0.687263         0.586635                 0.707135                0.707135                        0.687263     0.541357         0.461907                 0.599757                0.599757                        0.541357         0.319048             0.308703                     0.337798                    0.337798                            0.319048                        4                            4                                    4                                   4                                           4
+    18            0.415598                0.415598                        0.395217                       0.402038                               0.395217     0.602145         0.602145                 0.581858                0.699488                        0.581858     0.513124         0.513124                 0.439698                0.702155                        0.439698         0.328725             0.328725                     0.362732                    0.482540                            0.362732                        4                            4                                    4                                   3                                           4
+    19            0.415105                0.415598                        0.415105                       0.418803                               0.418803     0.707135         0.602145                 0.707135                0.586635                        0.586635     0.599757         0.513124                 0.599757                0.461907                        0.461907         0.337798             0.328725                     0.337798                    0.308703                            0.308703                        4                            4                                    4                                   4                                           4
+    20            0.419790                0.415598                        0.415598                       0.415105                               0.419790     0.687263         0.602145                 0.602145                0.707135                        0.687263     0.541357         0.513124                 0.513124                0.599757                        0.541357         0.319048             0.328725                     0.328725                    0.337798                            0.319048                        4                            4                                    4                                   4                                           4
+
+Summary of Averages and Standard Deviations:
+                                    Metric     Mean  Standard Deviation
+                        Louvain_Modularity 0.417977            0.001945
+                    GCN_Louvain_Modularity 0.414818            0.006571
+            Transformer_Louvain_Modularity 0.414472            0.007853
+             GCN_Louvain_Rewire_Modularity 0.410914            0.010960
+     Transformer_Louvain_Rewire_Modularity 0.413794            0.009800
+                               Louvain_NMI 0.637782            0.050682
+                           GCN_Louvain_NMI 0.621493            0.046841
+                   Transformer_Louvain_NMI 0.634044            0.049492
+                    GCN_Louvain_Rewire_NMI 0.642508            0.053930
+            Transformer_Louvain_Rewire_NMI 0.656152            0.062266
+                               Louvain_ARI 0.516304            0.043605
+                           GCN_Louvain_ARI 0.510974            0.047802
+                   Transformer_Louvain_ARI 0.514096            0.044911
+                    GCN_Louvain_Rewire_ARI 0.527292            0.077030
+            Transformer_Louvain_Rewire_ARI 0.529578            0.075517
+                           Louvain_F-Score 0.320239            0.009693
+                       GCN_Louvain_F-Score 0.324541            0.014312
+               Transformer_Louvain_F-Score 0.324493            0.013416
+                GCN_Louvain_Rewire_F-Score 0.338974            0.054662
+        Transformer_Louvain_Rewire_F-Score 0.332066            0.040967
+                   Louvain_Num_Communities 4.000000            0.000000
+               GCN_Louvain_Num_Communities 4.000000            0.000000
+       Transformer_Louvain_Num_Communities 4.000000            0.000000
+        GCN_Louvain_Rewire_Num_Communities 3.900000            0.307794
+Transformer_Louvain_Rewire_Num_Communities 3.950000            0.223607

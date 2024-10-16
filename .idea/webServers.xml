@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ef670f7-256d-469e-b91a-499cb25c9134" name="dm_gpu">
+        <fileTransfer rootFolder="/home/dahee/gnn_louvain" accessType="SFTP" host="10.20.12.77" port="2256" sshConfigId="fc3b8bf7-aea8-47dc-a362-de8c9599e0b0" sshConfig="dahee@10.20.12.77:2256 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
