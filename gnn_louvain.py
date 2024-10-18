@@ -24,11 +24,11 @@ import time
 
 
 # Step 1: Generate Node Embeddings using Graph Transformer
-def get_graph_transformer_embeddings(graph, features, hidden_channels=64, epochs=200, num_heads=4):
+def get_graph_transformer_embeddings(graph, features, hidden_channels=64, epochs=200, num_heads=4, dropout=0.5):
     edge_index = torch.tensor(list(graph.edges)).t().contiguous()
     x = torch.tensor(features, dtype=torch.float)
 
-    model = GraphTransformer(x.size(1), hidden_channels, num_heads=num_heads)
+    model = GraphTransformer(x.size(1), hidden_channels, num_heads=num_heads, dropout=dropout)
     optimizer = torch.optim.Adam(model.parameters(), lr=0.01)
 
     for epoch in range(epochs):
@@ -305,7 +305,7 @@ def calculate_cdlib_metrics(graph, partition, ground_truth_partition):
     dice = evaluation.dice_index(clustering, ground_truth_clustering)
 
     return nf1, southwood, rogers_tanimoto, sorensen, dice
-def compare_methods(graph, features, ground_truth, num_trials=5, k=5 ):
+def compare_methods(graph, features, ground_truth, dropout, num_trials=5,  k=5):
     # Initialize lists to store the results of each trial
     results = []
 
@@ -326,7 +326,7 @@ def compare_methods(graph, features, ground_truth, num_trials=5, k=5 ):
 
         # Generate node embeddings using GCN
         start_time = time.time()
-        embeddings_gcn = get_node_embeddings(graph, features)
+        embeddings_gcn = get_node_embeddings(graph, features, dropout=dropout)
         end_time = time.time()
         embeddings_time = end_time - start_time
 
@@ -357,7 +357,7 @@ def compare_methods(graph, features, ground_truth, num_trials=5, k=5 ):
 
         # Generate node embeddings using Graph Transformer
         start_time = time.time()
-        embeddings_transformer = get_graph_transformer_embeddings(graph, features)
+        embeddings_transformer = get_graph_transformer_embeddings(graph, features, dropout=dropout)
         end_time = time.time()
         embeddings_time = end_time - start_time
 
@@ -439,7 +439,7 @@ def compare_methods(graph, features, ground_truth, num_trials=5, k=5 ):
     return results_df, summary_df
 
 
-def GCN_louvain(graph, features, ground_truth, num_trials=5):
+def GCN_louvain(graph, features, ground_truth, dropout, num_trials=5 ):
     # Initialize lists to store the results of each trial
     results = []
 
@@ -538,6 +538,6 @@ if __name__ == '__main__':
 
     # Compare methods
     if method == "compare":
-        compare_methods(G, features, ground_truth, num_trials=num_trials, k=5)
+        compare_methods(G, features, ground_truth, dropout, num_trials=num_trials, k=5)
     elif method == "gcn":
-        GCN_louvain(G, features, ground_truth, num_trials=num_trials)
+        GCN_louvain(G, features, ground_truth, dropout, num_trials=num_trials)
